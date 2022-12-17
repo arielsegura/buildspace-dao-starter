@@ -42,7 +42,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Join us',
-    paragraph: 'Connect your wallet and claim your membership card'
+    paragraph: "Let's have some fun"
   };
 
   return (
