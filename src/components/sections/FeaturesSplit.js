@@ -133,7 +133,7 @@ const FeaturesSplit = ({
                   'split-item-image center-content-mobile reveal-from-bottom',
                   imageFill && 'split-item-image-fill'
                 )}
-                data-reveal-container=".split-item" style={{background: 'white'}}>
+                data-reveal-container=".split-item">
                 <Image
                   src={require('./../../assets/images/Polygon_blockchain_logo.png')}
                   alt="Features split 03"
